@@ -1,4 +1,4 @@
-# Injector Library
+# libinjector.c
 
 A simple Linux library for injecting shared objects (.so) into other processes using ptrace and dlopen.
 
